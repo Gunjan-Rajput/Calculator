@@ -1,8 +1,3 @@
-
-
-### 'calculator'
-This project helps in understand the workflow of React and javascript.
-
 In the project directory, you can run:
 
 ### `npm start`
