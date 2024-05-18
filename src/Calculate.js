@@ -110,7 +110,6 @@ class Calculate extends React.Component {
 
     }
 
-
 	render(){
 		
 			// return <div> {(this.props.calc[item]) => this.setflag(this.props.calc[item])} </div>
